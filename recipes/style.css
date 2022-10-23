@@ -1,5 +1,6 @@
 img {
     width: 65%;
+    min-height: fit-content;
     height: fit-content;
     display: block;
     margin-left: auto;
@@ -9,6 +10,7 @@ img {
 h1 {
     font-size: 44px;
     text-align: center;
+    margin-bottom: 80px;
 }
 
 h2 {
